@@ -1,0 +1,69 @@
+.css-itvw0n {
+    padding-top: 13px;
+}
+
+.css-bskqlt {
+    width: 80% !important;
+}
+
+.information-section {
+    margin-top: 70px !important;
+    position: absolute;
+    width: 100%;
+}
+
+.myinformation-section {
+    margin-top: 70px !important;
+    position: absolute;
+    width: 100%;
+}
+
+#dropdown-menu-align-right {
+    width: 100%;
+}
+
+[type="file"] {
+    /* Style the color of the message that says 'No file chosen' */
+      color: #878787;
+    }
+    [type="file"]::-webkit-file-upload-button {
+      background: #ED1C1B;
+      border: 2px solid #ED1C1B;
+      border-radius: 4px;
+      color: #fff;
+      cursor: pointer;
+      font-size: 12px;
+      outline: none;
+      padding: 10px 25px;
+      text-transform: uppercase;
+      transition: all 1s ease;
+    }
+    
+    [type="file"]::-webkit-file-upload-button:hover {
+      background: #fff;
+      border: 2px solid #535353;
+      color: #000;
+    }
+    
+    /* GENERAL STYLING OF PAGE — NOT APPLICABLE TO EXAMPLE */
+    body {
+      padding: 20px;
+    }
+
+.chakra-image {
+    width: 250px;
+    margin-left: 22px;
+}
+
+#carousel{
+    width: 250px !important;
+    height: 290px;
+}
+
+.carousel .thumbs {
+    display: none;
+} 
+
+.css-ik8d9n {
+    margin-top: -20px;
+}
